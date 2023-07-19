@@ -1,6 +1,6 @@
-## [Searchable Chiplet Catalog](http://chiplets.saadmir.com/) [***WIP***]
+## Searchable Chiplet Catalog [***WIP***]
 
-a searchable catalog of [chiplets](https://medium.com/@gftaylor/what-are-chiplets-23b4b1fa6f05), built with data from [chiplet.US](https://chiplet.us)
+a searchable catalog of [chiplets](https://medium.com/@gftaylor/what-are-chiplets-23b4b1fa6f05).
 
 ### tech stack
   - [react](https://react.dev/)
@@ -14,12 +14,10 @@ a searchable catalog of [chiplets](https://medium.com/@gftaylor/what-are-chiplet
 
 
 ```
-git clone https://github.com/saadmir/chiplet.us.git
-cd chiplet.us
+git clone https://github.com/saadmir/chiplets.git
+cd chiplets
 
 npm install --global nx@latest
 
 nx build api && nx build web
 ```
-
-
